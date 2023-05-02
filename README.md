@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Frontend Mentor - Interactive rating component solution</h1>
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://interactive-rating-component-287.vercel.app/" target="_blank"><strong>➥ Live Demo</strong></a>
 </div>
 <br/>
 
@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/sudhanshu287/interactive-rating-component-fm)
+- Live Site URL: [Live Demo](https://interactive-rating-component-287.vercel.app/)
 
 ## My process
 
